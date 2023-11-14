@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ville_exercices",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ville_exercices::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ville_exercices-Debug-daf2b866b6f9db0c5e4c.json",
+					"name" : "Ville_exercices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part2.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part2.1-Debug-3074c80b28c1094be9ca.json",
+					"name" : "part2.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part2.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part2.2-Debug-7f52ac4e44f4b2665b5c.json",
+					"name" : "part2.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part2.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part2.3-Debug-97bb216ee3dddd129118.json",
+					"name" : "part2.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part2.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part2.4-Debug-8563bca8a39cfa2b574d.json",
+					"name" : "part2.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part3-Debug-fbb54d8c22c30913c5e3.json",
+					"name" : "part3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part4-Debug-78ddd92b019e359f8db3.json",
+					"name" : "part4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part5-Debug-a87b6e472fcf89aa208d.json",
+					"name" : "part5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part6-Debug-40d8458b77f689ce1a39.json",
+					"name" : "part6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "part7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-part7-Debug-e1273a81ae422d6d6f01.json",
+					"name" : "part7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/HannahHoang/CLionProjects/Ville-exercices/cmake-build-debug",
+		"source" : "/Users/HannahHoang/CLionProjects/Ville-exercices"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
